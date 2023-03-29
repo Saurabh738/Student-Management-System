@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: projectbackend
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lenovo
+Implementation-Vendor-Id: com.backend
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://spring.io/projects/spring-boot/projectback
+ end
+Created-By: Maven Integration for Eclipse
+
